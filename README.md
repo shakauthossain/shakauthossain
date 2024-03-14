@@ -62,6 +62,6 @@
 
 <br clear="both">
 
-<img src="https://github.com/shakauthossain/shakauthossain/.github/workflows/snake.svg" alt="Snake animation" />
+<img src="https://svgshare.com/i/14KD.svg" alt="Snake animation" />
 
 ###
