@@ -1,4 +1,4 @@
-<h2 align="center">Hi Folks! <br>My name is Shakaut Hossain and I'm an Embedded Systems Engineer</h2>
+<h2 align="center">Hi Folks! <br>My name is Shakaut Hossain and I'm an Artificial Intelligence of Things (AIoT) Engineer</h2>
 
 ###
 
